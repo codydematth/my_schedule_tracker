@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Coding for 6 months",
+      "day": "Jul 14th 2022",
+      "reminder": true
+    },
+    {
+      "id": 2,
+      "text": "<50 Push up daily />",
+      "day": "Jul 18 2022",
+      "reminder": false
+    },
+    {
+      "id": 3,
+      "text": "<Increase in calories>",
+      "day": "Today",
+      "reminder": false
+    }
+  ]
+}
